@@ -1,3 +1,6 @@
+
+<img width="1911" height="1025" alt="image" src="https://github.com/user-attachments/assets/c596c151-55bf-4d54-8328-40838d434d36" />
+
 # Bill Share (Chia Hóa Đơn) - Stellar Smart Contract
 
 Đây là một Smart Contract đơn giản trên nền tảng **Stellar (Soroban)** dùng để giải quyết bài toán chia tiền ăn uống (hoặc chi phí chung) giữa một nhóm bạn bè.
